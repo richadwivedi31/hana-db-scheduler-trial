@@ -29,3 +29,10 @@ mta_archives/
 # IDEs
 # .vscode
 # .idea
+
+# auto generated wildcard
+db/.env
+# auto generated wildcard
+.env1
+# auto generated wildcard
+.env
